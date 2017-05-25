@@ -547,7 +547,7 @@ img{
 	display: inline-block;
 }
 .footer_bottom .footer_bottom_content .footer_logo a{
-	background: url(footer-logo.jpg) no-repeat left center;
+	background: url(../Img/footer-logo.jpg) no-repeat left center;
 	height: 92px;
 	line-height: 92px;
 	color: white;
